@@ -1,0 +1,8 @@
+output/*
+output
+.env
+env
+venv
+venv/
+samples/*
+__pycache__/
